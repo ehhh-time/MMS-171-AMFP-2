@@ -150,10 +150,6 @@ li:hover {
   transform: translateY(-4px);
   transition: transform 0.3s ease, box-shadow 0.3s ease;
 }
-:hover {
-  transform: translateY(-4px);
-  transition: transform 0.3s ease, box-shadow 0.3s ease;
-}
 a:link {
   color: white;
 }
